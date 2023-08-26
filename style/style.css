@@ -62,3 +62,22 @@ li:hover{
     background-color: rgb(135, 23, 23);
     color: wheat;
 }
+.section-title{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.about-header{
+    margin-bottom: 20px;
+    font-weight: 900w;
+}
+.about-img{
+    width: 300px;
+}
